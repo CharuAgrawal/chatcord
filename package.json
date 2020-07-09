@@ -16,5 +16,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradtraversy/chatcord.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bradtraversy/chatcord/issues"
+  },
+  "homepage": "https://github.com/bradtraversy/chatcord#readme"
 }
